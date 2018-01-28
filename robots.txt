@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://seyda.benzer.com/sitemap.xml
